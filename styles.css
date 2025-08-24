@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+.p1{
+	border-color:skyblue;
+	background-color:yellow;
+	border-width:1px;
+	border-style:solid;
+}
+.p2{
+	border-color:black;
+	background-color:red;
+	border-width:1px;
+	border-style:solid;
+}
+.p3{
+	border-color:yellow;
+	background-color:green;
+	border-width:1px;
+	border-style:solid;
+}
